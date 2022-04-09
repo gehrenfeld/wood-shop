@@ -2,8 +2,8 @@
 /* Database credentials. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
 const DB_SERVER = 'localhost';
-const DB_USERNAME = 'gehrenfeld';
-const DB_PASSWORD = 'Stee!oat5';
+const DB_USERNAME = '';
+const DB_PASSWORD = '';
 const DB_NAME = 'wood-shop';
 
 /* Attempt to connect to MySQL database */
